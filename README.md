@@ -1,4 +1,4 @@
-# Avance-3-Proyecto
+# Avance-3-Proyecto ------------------------ ACTUALIZCION EN "PROYECTO_INVENTARIO"
 Incorpora a tu proyecto libre uso de funciones
 
 - Se amplio el inventario de 1 a 3 productos (computadora, telefono y raton) para mostrar el aprovechamiento del uso de la funcion
